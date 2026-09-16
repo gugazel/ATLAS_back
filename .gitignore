@@ -1,0 +1,16 @@
+# Dados da Aditive (nomes, CNPJs e volumes de clientes) nunca vão para o GitHub
+*.xlsx
+*.xls
+*.csv
+/data/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editor / sistema
+.vscode/
+.DS_Store
+Thumbs.db
